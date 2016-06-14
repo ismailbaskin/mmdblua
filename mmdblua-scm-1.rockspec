@@ -1,5 +1,5 @@
 package = "mmdblua"
-version = "scm-0"
+version = "scm-1"
 
 description = {
 	summary = "Library for reading MaxMind's Geolocation database format.";
@@ -12,7 +12,7 @@ dependencies = {
 }
 
 source = {
-	url = "git://github.com/pisto/mmdblua.git";
+	url = "git://github.com/ismailbaskin/mmdblua.git";
 }
 
 build = {
